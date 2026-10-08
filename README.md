@@ -8,6 +8,7 @@
 
 | Task | Activity | Cách nộp | File | Trạng thái |
 |------|----------|----------|------|------------|
+| 1 | – | Nộp link GitHub | [README.md](https://github.com/luukhanhvinh1214/ibm_final_project/blob/main/README.md) | ✅ |
 | 2 | 1 | Dán code | `2a_emotion_detection` | ✅ |
 | 2 | 2 | Dán output terminal | `2b_application_creation` | ✅ |
 | 3 | 1 | Dán code | `3a_output_formatting` | ✅ |
