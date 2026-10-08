@@ -16,7 +16,7 @@
 | 4 | 1 | Nộp link GitHub | [EmotionDetection/\_\_init\_\_.py](https://github.com/luukhanhvinh1214/ibm_final_project/blob/main/EmotionDetection/__init__.py) | ✅ |
 | 4 | 2 | Dán output terminal | `4b_packaging_test` | ✅ |
 | 5 | 1 | Dán code | `5a_unit_testing` | ✅ |
-| 5 | 2 | Dán output terminal | `5b_unit_testing_result` | ⏳ Chưa có: chạy `python3.11 test_emotion_detection.py` trong lab |
+| 5 | 2 | Dán output terminal | `5b_unit_testing_result` | ✅ |
 | 6 | 1 | Dán code | `6a_server` | ✅ |
 | 6 | 2 | Upload ảnh | `6b_deployment_test.png` | ✅ |
 | 7 | 1 | Dán code | `7a_error_handling_function` | ✅ |
